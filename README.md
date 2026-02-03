@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trunghieu1604/trunghieu1604/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trunghieu1604/trunghieu1604/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/trunghieu1604/trunghieu1604/output/github-contribution-grid-snake.svg">
+    </picture>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trunghieu1604&label=Profile+Views&color=0D1117&style=flat&label_color=00FFFF" />
 </p>
