@@ -10,7 +10,8 @@ on:
 
   # Chạy khi có push lên nhánh master
   push:
-    - master
+  branches:
+    - main
 
 jobs:
   generate:
