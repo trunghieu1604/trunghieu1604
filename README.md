@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  Cam on ban da ghe tham! Chuc mot ngay tot lanh! 👋
+  Cám ơn bạn đã ghé thăm, chúc bạn một ngày tốt lành 👋
 </p>
