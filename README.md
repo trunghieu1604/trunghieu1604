@@ -14,6 +14,7 @@
 </picture>
 
 <p align="center">
+   <a href="https://github.com/trunghieu1604">
   <img src="https://komarev.com/ghpvc/?username=trunghieu1604&label=Profile+Views&color=0D1117&style=flat&label_color=00FFFF" />
 </p>
 
